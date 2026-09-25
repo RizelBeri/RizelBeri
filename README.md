@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="480" height="480" alt="m2-res_480p" src="https://github.com/user-attachments/assets/653e930a-babf-478d-bc64-fd182018b4f2" />
+![Niko](./assets/niko.gif)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RizelBeri&rank_icon=github&hide_title=true&custom_title=Miau&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=RizelBeri&rank_icon=github&hide_title=true&custom_title=Miau&show_icons=true&include_all_commits=true&theme=dracula)
-
-
-
